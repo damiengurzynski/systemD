@@ -1,5 +1,5 @@
 # systemD
-Star system simulator
+A questionably accurate star system simulator.
 
 
 / Shortkeys /
