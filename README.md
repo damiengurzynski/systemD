@@ -5,8 +5,11 @@ A questionably accurate star system simulator.
 / Shortkeys /
 
 'Space' : Start/Stop simulation
+
 'Arrow Keys' : Move the map around
+
 ',' : Zoom in
+
 ';' : Zoom out
 
 
